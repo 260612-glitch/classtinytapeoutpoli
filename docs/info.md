@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-turn on the switches
+Using a LED we can observe the different behaviours of log gates
 
 ## How to test
 
-popup the display
+Using the interrupters while we run the simulation we can see the changes in the LED 
 
 ## External hardware
 
