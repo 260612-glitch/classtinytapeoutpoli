@@ -17,4 +17,4 @@ popup the display
 
 ## External hardware
 
-NO
+Enumera el hardware externo utilizando en tu proyecto (por ejemplo, PMOD, pantalla LED, etc.), si lo hay.
